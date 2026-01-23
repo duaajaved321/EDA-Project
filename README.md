@@ -57,13 +57,7 @@ This report aims to uncover patterns, trends, and relationships among key variab
 ## 💻 Tech Stack
 * **Language:** Python
 * **Libraries:** Pandas, Matplotlib, Seaborn, NumPy
-* **Tools:** Jupyter Notebook
+* **Tools:** Google Colab
 
 ---
 
-## 📂 Project Structure
-```text
-├── data/               # Raw and cleaned datasets
-├── notebooks/          # Jupyter notebooks with EDA and visualizations
-├── visualizations/     # Exported images and charts
-└── README.md           # Project documentation
